@@ -3,7 +3,7 @@ title: "コメントでボールが落ちる配信を作った ― 『ボール�
 emoji: "🔵"
 type: "tech"
 topics: ["python", "youtube", "gcp", "ffmpeg"]
-published: false
+published: true
 ---
 
 ## はじめに
